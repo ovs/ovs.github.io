@@ -7,18 +7,18 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://ovs.github.io/categories/golang.xml</loc>
-  <lastmod>2016-05-25T02:36:00Z</lastmod>
+  <lastmod>2016-05-25T04:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ovs.github.io/galleries/rss.xml</loc>
-  <lastmod>2016-05-25T04:02:00Z</lastmod>
+  <lastmod>2016-05-25T04:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ovs.github.io/rss.xml</loc>
-  <lastmod>2016-05-25T02:54:00Z</lastmod>
+  <lastmod>2016-05-25T04:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ovs.github.io/sitemap.xml</loc>
-  <lastmod>2016-05-25T04:02:00Z</lastmod>
+  <lastmod>2016-05-25T04:43:00Z</lastmod>
  </sitemap>
 </sitemapindex>
