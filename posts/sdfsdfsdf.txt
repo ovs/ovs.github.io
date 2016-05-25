@@ -1,9 +1,0 @@
-.. link: 
-.. description: 
-.. tags: 
-.. date: 2013/08/06 05:39:42
-.. title: sdfsdfsdf
-.. slug: sdfsdfsdf
-
-Write your post here.
-.. youtube:: 8N_tupPBtWQ

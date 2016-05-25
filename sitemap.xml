@@ -1,77 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://ovs.github.io/</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
+  <loc>https://ovs.github.io/</loc>
+  <lastmod>2016-05-24T04:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://ovs.github.io/2013/</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
+  <loc>https://ovs.github.io/2016/</loc>
+  <lastmod>2016-05-24T04:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://ovs.github.io/2013/index.html</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
+  <loc>https://ovs.github.io/archive.html</loc>
+  <lastmod>2016-05-25T04:02:00Z</lastmod>
  </url>
  <url>
-  <loc>http://ovs.github.io/archive.html</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
+  <loc>https://ovs.github.io/categories/</loc>
+  <lastmod>2016-05-25T02:52:00Z</lastmod>
  </url>
  <url>
-  <loc>http://ovs.github.io/categories/</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
+  <loc>https://ovs.github.io/categories/golang/</loc>
+  <lastmod>2016-05-25T02:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://ovs.github.io/categories/index.html</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
+  <loc>https://ovs.github.io/galleries/</loc>
+  <lastmod>2016-05-24T04:14:00Z</lastmod>
  </url>
  <url>
-  <loc>http://ovs.github.io/categories/sdfsdf.html</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
+  <loc>https://ovs.github.io/listings/</loc>
+  <lastmod>2016-05-24T04:14:00Z</lastmod>
  </url>
  <url>
-  <loc>http://ovs.github.io/galleries/</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
+  <loc>https://ovs.github.io/posts/dgraph-io/</loc>
+  <lastmod>2016-05-25T02:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://ovs.github.io/galleries/index.html</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://ovs.github.io/index.html</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://ovs.github.io/listings/</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://ovs.github.io/listings/index.html</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://ovs.github.io/posts/ddd.html</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://ovs.github.io/posts/sdfsdfsdf.html</loc>
-  <lastmod>2013-09-11</lastmod>
-  <priority>0.5000</priority>
+  <loc>https://ovs.github.io/stories/tttt/</loc>
+  <lastmod>2016-05-24T04:18:00Z</lastmod>
  </url>
 </urlset>
